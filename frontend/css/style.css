@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Kanit;
+    src: url('../fonts/Kanit/Kanit-Light.ttf')  format('truetype');
+  }
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    border: 0.5px solid black;
+    font-family: Kanit;
+}
+.box {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.box .header {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+* {
+    background-color: #4A90E2;
+    background-color: #F5F5F5;
+    background-color: #4A4A4A;
+    background-color: #7B61FF;
+    background-color: #A8E6CF;
