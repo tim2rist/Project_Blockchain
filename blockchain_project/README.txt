@@ -1,0 +1,1 @@
+** Było wykonane na lokalnym serwerze XAMPP **

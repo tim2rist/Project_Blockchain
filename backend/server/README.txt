@@ -1,0 +1,1 @@
+** Było wykonane po instalowaniu Node.js po odpalaniu serwera **
